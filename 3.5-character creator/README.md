@@ -1,0 +1,1 @@
+On a smaller screen to display attributes properly crtl- will have to be used so they do not overlap
